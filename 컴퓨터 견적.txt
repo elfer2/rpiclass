@@ -6,3 +6,4 @@
 
 cpu: ryzen 5600
 gpu: rtx3060ti
+ram: ddr4 2133mhz 16gb
